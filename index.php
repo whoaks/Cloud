@@ -26,5 +26,6 @@ print `ifconfig`;
 ?>
 
 </pre>
+<img src='d2ift375jphw8m.cloudfront.net/terraform_pic.JPG'>
 </body>
 </html>
