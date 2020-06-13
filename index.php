@@ -18,7 +18,6 @@ box-shadow:3px 3px 3px 3px yellow;
 </style></head>
 <body>
 <h1>Welcome to My Page</h1>
-<img src="https://aks4321.s3.ap-south-1.amazonaws.com/Capture.JPG">
 <pre>
 <?php
 
